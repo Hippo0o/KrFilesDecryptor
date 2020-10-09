@@ -1,3 +1,5 @@
+# OUTDATED
+
 # KrFilesDecryptor
 
 *Visual Studio 2019 project*
